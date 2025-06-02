@@ -31,7 +31,7 @@ This is the **React-based frontend** of the PERN (PostgreSQL, Express.js, React,
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pern-todo-client.git
+git clone https://github.com/saidee-hasan/pern-todo-client.git
 cd pern-todo-client
 
 # Install dependencies
